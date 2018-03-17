@@ -1,0 +1,8 @@
+[package]
+name = "odf-rust"
+version = "0.1.0"
+authors = ["Anirudhan Rajagopalan <github@anirudhan.in>"]
+
+[dependencies]
+zip = "0.3.1"
+quick-xml = "0.12.1"
